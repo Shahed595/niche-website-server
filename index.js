@@ -12,7 +12,6 @@ const port = process.env.PORT || 5000
 
 
 
-
 //firbase jwt token setup
 const serviceAccount = require('./final-assignment-firebase-adminsdk.json');
 
